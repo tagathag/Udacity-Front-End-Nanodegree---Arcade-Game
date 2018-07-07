@@ -20,7 +20,7 @@ https://cdn.rawgit.com/tagathag/Udacity-Front-End-Nanodegree---Arcade-Game/239d0
 
 ## Install
 
-Open this in any browser, I recommended Chrome, Firefox
+By opening in any browser, I recommended Chrome, Firefox
 
 ## Contributing
 
