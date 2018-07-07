@@ -15,7 +15,7 @@ In order to win you have to reach the water. After you win the game you can cont
 
 ## Preview
 
-### [Play here]
+### [Play here]https://cdn.rawgit.com/tagathag/Udacity-Front-End-Nanodegree---Arcade-Game/239d045d/index.html
 
 ## Install
 
