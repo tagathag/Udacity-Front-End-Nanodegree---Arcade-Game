@@ -1,0 +1,18 @@
+body {
+    text-align: center;
+}
+
+.modal {
+    display: none;
+    margin: 0 auto;
+    text-align: center;
+    text-transform: uppercase;
+    border-radius: 10px;
+    position: fixed;
+    width: 30%;
+    transform: translate(-50%, -50%);
+    top: 70%;
+    left: 50%;
+    background-color: rgb(130, 141, 238);
+}
+
