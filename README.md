@@ -13,14 +13,12 @@ In order to win you have to reach the water. After you win the game you can cont
 
 **Good Luck**
 
-## Preview
+## How to play & Install
+
+By opening in any browser using the link below, I recommended Chrome, Firefox. You can also download all the files in your pc and open the index.html file.
 
 ### [Play here]
 https://cdn.rawgit.com/tagathag/Udacity-Front-End-Nanodegree---Arcade-Game/239d045d/index.html
-
-## How to play & Install
-
-By opening in any browser using the link above, I recommended Chrome, Firefox. You can also download all the files in your pc and open the index.html file.
 
 
 ## Contributing
